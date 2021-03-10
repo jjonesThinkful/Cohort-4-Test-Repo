@@ -1,1 +1,14 @@
 /* new style sheet */
+h1{
+  font-family: fantasy;
+  font-size: 30px;
+  color: blue;
+  text-align: center;
+}
+
+p{
+  font-family: fantasy;
+  font-size: 18px;
+  color: purple;
+  text-align: center;
+}
